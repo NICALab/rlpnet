@@ -5,8 +5,10 @@
 
 ### [Paper]()
 Official source codes for "RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing", MICCAI2021.
-We propose a recursive light propagation network (RLP-Net) that infers the 3-D volume from two adjacent 2-D wide-field fluorescence images via virtual refocusing.
 
+We propose a recursive light propagation network (RLP-Net) that infers the 3-D volume from two adjacent 2-D wide-field fluorescence images via virtual refocusing.
+Specifically, we propose a recursive inference scheme in which the network progressively predicts the subsequent planes along the axial direction. 
+This recursive inference scheme re ects that the law of physics for the light propagation remains spatially invariant and therefore a fixed function (i.e., a neural network) for a short distance light propagation can be recursively applied for a longer distance light propagation.
 ## Prerequisites
 - Linux or macOS
 - Python 3
