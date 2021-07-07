@@ -4,11 +4,6 @@ Official source codes for "RLP-Net: A Recursive Light Propagation Network for 3-
 
 
 ## Requirements
-
-## Train
-
-## Test
-
 ```markdown
 python==3.6
 torch==1.7.0
@@ -17,3 +12,8 @@ numpy==1.19.4
 skimage==0.17.2
 scipy==1.5.3
 ```
+
+## Train
+
+## Test
+
