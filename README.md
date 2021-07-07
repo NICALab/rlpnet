@@ -62,7 +62,7 @@ python test.py  --test_data_path "PATH OF TEST INPUT" --output_path "OUTPUT PATH
 A 3-D view of the reconstructed volume (left). 
 Refocused to z=-5um. The insets below zoom in on the three boxes (center).
 Refocused to z=8um. The insets below zoom in on the boxes (right).
-(c) As in \textbf{b}, but for the ground truth image.
+(c) As in (b), but for the ground truth image.
 Scale bars, 2um.
 
 ## Citation
