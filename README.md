@@ -10,7 +10,11 @@ We propose a recursive light propagation network (RLP-Net) that infers the 3-D v
 Specifically, we propose a recursive inference scheme in which the network progressively predicts the subsequent planes along the axial direction. 
 This recursive inference scheme reflects that the law of physics for the light propagation remains spatially invariant and therefore a fixed function (i.e., a neural network) for a short distance light propagation can be recursively applied for a longer distance light propagation.
 
-<img width="90%" src="demo/RLPnet_demo_final_210617.gif">
+### Illustration of the fluorescence volume imaging with 3-D virtual refocusing
+<img width="90%" src="Figure1_ver2.PNG">
+
+
+
 ## Prerequisites
 - Linux or macOS
 - Python 3
