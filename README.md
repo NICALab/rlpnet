@@ -8,3 +8,10 @@ Official source codes for "RLP-Net: A Recursive Light Propagation Network for 3-
 ## Train
 
 ## Test
+
+```markdown
+python==3.6
+torch==1.7.0
+torchvision==0.8.1
+numpy==1.19.4
+```
