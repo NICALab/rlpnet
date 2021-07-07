@@ -1,6 +1,6 @@
 <h2 align="center">RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing</h2>
 <p align="center">
-<img width="100%" src="demo/RLPnet_demo_final_210617.gif">
+<img width="90%" src="demo/RLPnet_demo_final_210617.gif">
 </p>
 
 ### [Paper]()
