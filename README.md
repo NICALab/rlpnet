@@ -2,9 +2,8 @@
 <p align="center">
 <img width="90%" src="demo/RLPnet_demo_final_210617.gif">
 </p>
-<h6 align="center"> Demo video of RLP-Net for C. elegans images. Two left images are adjacent input images and the right volume image is reconstructed 3-D volume.
-  
-  This data is not included in the paper and this repository.</h6>
+<h6 align="center"> Demo video of RLP-Net for C. elegans images. 
+  Two left images are adjacent input images and the right volume image is reconstructed 3-D volume.</h6>
 
 ### [Paper]()
 Official source codes for "RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing", MICCAI2021.
