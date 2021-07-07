@@ -42,4 +42,6 @@ python train.py --dataset_name "NAME OF DATASET" --root2 "SAVING PATH OF TRAININ
 ```
 
 ## Test
-
+```bash
+python test.py  --test_data_path "PATH OF TEST INPUT" --output_path "OUTPUT PATH FOR SAVING" --saved_model_path "SAVED MODEL PATH" --test_name "NAME OF TEST"
+```
