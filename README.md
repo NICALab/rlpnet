@@ -60,10 +60,10 @@ python test.py  --test_data_path "PATH OF TEST INPUT" --output_path "OUTPUT PATH
 (a) Two adjacent images applied as the input. 
 (b) Refocusing result obtained with RLP-Net. 
 A 3-D view of the reconstructed volume (left). 
-Refocused to $z=-5\mu m$. The insets below zoom in on the three boxes (center).
-Refocused to $z=8\mu m$. The insets below zoom in on the boxes (right).
+Refocused to z=-5um. The insets below zoom in on the three boxes (center).
+Refocused to z=8um. The insets below zoom in on the boxes (right).
 (c) As in \textbf{b}, but for the ground truth image.
-Scale bars, 2$\mu m$.
+Scale bars, 2um.
 
 ## Citation
 ```bash
