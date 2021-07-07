@@ -15,5 +15,5 @@ torch==1.7.0
 torchvision==0.8.1
 numpy==1.19.4
 skimage==0.17.2
-
+scipy==1.5.3
 ```
