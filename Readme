@@ -1,7 +1,0 @@
-> For training
-python train.py
-
-> For test
-python test.py
-
-> PyTorch version: 1.8.0
