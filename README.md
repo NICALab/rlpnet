@@ -50,10 +50,9 @@ python test.py  --test_data_path "PATH OF TEST INPUT" --output_path "OUTPUT PATH
 
 
 ## Example Results
-<img width="70%" src="figure/Figure3_ver4.PNG">
 
-Virtual refocusing of a fluorescent bead image
-
+### Virtual refocusing of a fluorescent bead image
+<img width="100%" src="figure/Figure3_ver4.PNG">
 
 
 ## Citation
