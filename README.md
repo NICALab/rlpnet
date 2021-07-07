@@ -11,7 +11,7 @@ Specifically, we propose a recursive inference scheme in which the network progr
 This recursive inference scheme reflects that the law of physics for the light propagation remains spatially invariant and therefore a fixed function (i.e., a neural network) for a short distance light propagation can be recursively applied for a longer distance light propagation.
 
 ### Illustration of the fluorescence volume imaging with 3-D virtual refocusing
-<img width="90%" src="Figure1_ver2.PNG">
+<img width="90%" src="figure/Figure1_ver2.PNG">
 
 
 
