@@ -5,7 +5,12 @@
 
 ### [Paper]()
 Official source codes for "RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing", MICCAI2021.
+We propose a recursive light propagation network (RLP-Net) that infers the 3-D volume from two adjacent 2-D wide-field fluorescence images via virtual refocusing.
 
+## Prerequisites
+- Linux or macOS
+- Python 3
+- CPU or NVIDIA GPU + CUDA CuDNN
 
 ## Requirements
 ```markdown
@@ -17,7 +22,22 @@ skimage==0.17.2
 scipy==1.5.3
 ```
 
+### Update log
+
+07/08/2021: initial commit
+
+### Getting started
+
+- Clone this repo:
+```bash
+git clone https://https://github.com/NICALab/rlpnet rlpnet
+cd rlpnet
+```
+
 ## Train
+```bash
+python train.py --dataset_name "NAME OF DATASET" --root2 "SAVING PATH OF TRAINING RESULTS"
+```
 
 ## Test
 
