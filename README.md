@@ -2,7 +2,9 @@
 <p align="center">
 <img width="90%" src="demo/RLPnet_demo_final_210617.gif">
 </p>
-<h6 align="center"> 3-D video reconstruction of C. elegans expressing NLS-GCaMP5K pan-neuronally using RLP-Net. (left) video recording of two adjacent focal planes applied as the input to RLP-Net. (right) maximum intensity projection of the 3-D reconstructed video.</h6>
+<h6 align="center"> 3-D video reconstruction of C. elegans expressing NLS-GCaMP5K pan-neuronally using RLP-Net. 
+  
+  (left) video recording of two adjacent focal planes applied as the input to RLP-Net. (right) maximum intensity projection of the 3-D reconstructed video.</h6>
 
 ### [Paper]()
 Official source codes for "RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing", MICCAI2021.
