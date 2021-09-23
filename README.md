@@ -75,7 +75,7 @@ Scale bars, 2um.
   volume = {12906},
   year={2021},
   doi={https://doi.org/10.1007/978-3-030-87231-1_18},
-  url={https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_18#citeas},
+  url={https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_18},
 }
 ```
 
