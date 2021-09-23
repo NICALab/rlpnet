@@ -68,7 +68,7 @@ Scale bars, 2um.
 ## Citation
 ```bash
 @inproceedings{shin2021rlpnet,
-  title={RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing},
+  title={RLP-Net A Recursive Light Propagation Network for 3-D Virtual Refocusing},
   author={Changyeop Shin and Hyun Ryu and Eun-Seo Cho and Young-Gyu Yoon},
   booktitle={Medical Image Computing and Computer Assisted Intervention – MICCAI 2021},
   pages = {181--190},
