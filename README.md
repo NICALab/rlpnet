@@ -71,13 +71,10 @@ Scale bars, 2um.
   title={RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing},
   author={Changyeop Shin and Hyun Ryu and Eun-Seo Cho and Young-Gyu Yoon},
   booktitle={Medical Image Computing and Computer Assisted Intervention – MICCAI 2021},
-  pages={181--190},
-  volume={12906},
   year={2021},
+  pages={181--190},
   publisher={Springer},
   address={Cham},
-  doi={https://doi.org/10.1007/978-3-030-87231-1_18},
-  url={https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_18},
 }
 ```
 
