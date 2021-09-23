@@ -70,8 +70,12 @@ Scale bars, 2um.
 @inproceedings{shin2021rlpnet,
   title={RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing},
   author={Changyeop Shin and Hyun Ryu and Eun-Seo Cho and Young-Gyu Yoon},
-  booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention},
-  year={2021}
+  booktitle={Medical Image Computing and Computer Assisted Intervention – MICCAI 2021},
+  pages = {181--190},
+  volume = {12906},
+  year={2021},
+  doi={https://doi.org/10.1007/978-3-030-87231-1_18},
+  url={https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_18#citeas},
 }
 ```
 
