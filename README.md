@@ -66,6 +66,7 @@ Refocused to z=8um. The insets below zoom in on the boxes (right).
 Scale bars, 2um.
 
 ## Citation
+<a name="ref"></a>
 ```bash
 @inproceedings{shin2021rlpnet,
   title={RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing},
